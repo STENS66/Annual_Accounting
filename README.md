@@ -29,7 +29,7 @@ This enables more experienced individuals to create other tables or statistical 
 
 ## Installation (for Windows computer, 64-bit operating system, and x64 processor)
 
-This is a portable installation that can be used directly without administrator rights. You can download it via the green ‘Code’ button or through the "Releases" tab to get the latest version. To use this application, go to the "Accounting" folder, then double-click on the "Accounting.exe" file.
+This is a portable installation that can be used directly without administrator rights. To download it, simply click on the green "Code" button and choose "Download ZIP". To use this application, go to the "Accounting" folder, then double-click on the "Accounting.exe" file.
 
 ## Contact
 
