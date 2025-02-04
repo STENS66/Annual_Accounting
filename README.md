@@ -1,4 +1,4 @@
-# Annual Accounting - English Version 1.7
+# Annual Accounting - English Version 1.8
 
 # Copyright © Gaëtan Sencie 2023
 # All rights reserved.
