@@ -38,3 +38,19 @@ After downloading the executable file, double-click on the file to start the ins
 For any questions or further assistance, you can contact me at the email address: app.sencie@gmail.com.
 
 Thank you for using "Annual Accounting"!
+
+---
+
+### Soutien financier
+
+**TRX Public Address :** TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF
+
+**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=195&address=TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF)
+
+**BTC Public Adress :** bc1qv6403rkpev4yk90z8knq57uzcvrvw03cnywk3j
+
+**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=0&address=bc1qv6403rkpev4yk90z8knq57uzcvrvw03cnywk3j)
+
+**SOL Public Adress :** E2pmKA93wogncFE9hWqfQyWfXY2Q8kJNaogssdxccbHD
+
+**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=501&address=E2pmKA93wogncFE9hWqfQyWfXY2Q8kJNaogssdxccbHD)
