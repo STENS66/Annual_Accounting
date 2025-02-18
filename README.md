@@ -41,7 +41,7 @@ Thank you for using "Annual Accounting"!
 
 ---
 
-### Soutien financier
+### Financial Support
 
 **TRX Public Address :** TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF
 
