@@ -1,4 +1,4 @@
-Annual Accounting - English Version 1.8
+Simple Annual Accounting - English Version 1.9
 
 Copyright © Gaëtan Sencie 2023
 All rights reserved.
@@ -37,4 +37,4 @@ For any request for authorization or additional information, please contact the 
 This agreement constitutes the entire agreement between the User and the Author regarding the use of the Software and supersedes any prior agreements.
 
 
-Made in Boncelles (Belgium), 2023.
+Made in Boncelles (Belgium), 2025.
