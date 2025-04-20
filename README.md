@@ -1,11 +1,12 @@
-# Annual Accounting - English Version 1.8
+# Simple Annual Accounting (formerly Annual Accounting) - English Version 1.9
 
 # Copyright © Gaëtan Sencie 2023
 # All rights reserved.
 
 ## Description
 
-The "Annual Accounting" program is a simple and lightweight accounting software that provides a quick view of monthly money inflows and outflows.
+The "Simple Annual Accounting" program is a simple and lightweight accounting software that provides a quick view of monthly money inflows and outflows.
+Starting from version 1.9, the application 'Annual Accounting' was renamed to Simple Annual Accounting to ensure better consistency with the nomenclature of other projects.
 
 ### Features
 
@@ -37,7 +38,7 @@ After downloading the executable file, double-click on the file to start the ins
 
 For any questions or further assistance, you can contact me at the email address: app.sencie@gmail.com.
 
-Thank you for using "Annual Accounting"!
+Thank you for using "Simple Annual Accounting"!
 
 ---
 
